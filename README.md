@@ -15,8 +15,8 @@ _Created with R2020b. Compatible with R2020b and later releases._
 ライブスクリプト内の説明に沿って練習問題や課題を進めていくことができます。各ライブスクリプトを 1 セクションずつ実行することから始めてください。スクリプトまたはセクションの実行を途中で停止するには（たとえば、アニメーションの進行中など）、MATLABツールストリップのLive EditorタブのRUNセクションにあるStopボタンを使用します。
 
 ## お勧めの事前演習 ##
-[MATLAB入門](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – MATLABの基礎について2時間で学べる無料のオンラインコース。<br>
-[MATLAB によるシンボリック計算](https://www.mathworks.com/learn/tutorials/introduction-to-symbolic-math-with-matlab.html) – MATLABのシンボリック演算について学ぶための２時間の自学自習形式のコース。Online Training Suiteのライセンスをお持ちの方（大学の包括ライセンスなど、ご利用中のライセンスに含まれている場合があります）のみ利用可能です。
+[MATLAB入門](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – MATLABの基礎について2時間で学べる無料のオンラインコース。<br>
+[MATLAB によるシンボリック計算](https://matlabacademy.mathworks.com/details/introduction-to-symbolic-math-with-matlab/symbolic) – MATLABのシンボリック演算について学ぶための２時間の自学自習形式のコース。Online Training Suiteのライセンスをお持ちの方（大学の包括ライセンスなど、ご利用中のライセンスに含まれている場合があります）のみ利用可能です。
 
 ## 詳細 ##
 **`Part0_ConceptReview.mlx, Part0_ConceptReviewSoln.mlx`**  
